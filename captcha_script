@@ -1,0 +1,35 @@
+cd ~/ML\:DS/Lordswm/
+
+while true
+do 
+	python enroll_selenium.py "The One Ring" HYpMXuc6 373
+	python enroll_selenium.py "The One Ring" HYpMXuc6 363
+	sleep 900	
+	
+done
+
+python enroll_selenium.py "PLaY LikE a PRO" QWERTY12345uiop_ 216
+	sleep 600
+
+
+
+
+	python enroll_selenium.py "The One Ring" HYpMXuc6 376
+	python enroll_selenium.py "The One Ring" HYpMXuc6 378
+	python enroll_selenium.py "The One Ring" HYpMXuc6 379
+	python enroll_selenium.py "The One Ring" HYpMXuc6 380
+	python enroll_selenium.py "The One Ring" HYpMXuc6 373
+
+
+python enroll_selenium.py "The One Ring" HYpMXuc6 352
+	python enroll_selenium.py "The One Ring" HYpMXuc6 110
+	python enroll_selenium.py "The One Ring" HYpMXuc6 111
+	python enroll_selenium.py "The One Ring" HYpMXuc6 112
+	python enroll_selenium.py "The One Ring" HYpMXuc6 113
+	python enroll_selenium.py "The One Ring" HYpMXuc6 114
+	python enroll_selenium.py "The One Ring" HYpMXuc6 230
+	python enroll_selenium.py "The One Ring" HYpMXuc6 268
+	python enroll_selenium.py "The One Ring" HYpMXuc6 109
+	python enroll_selenium.py "The One Ring" HYpMXuc6 117
+	python enroll_selenium.py "The One Ring" HYpMXuc6 331
+	
